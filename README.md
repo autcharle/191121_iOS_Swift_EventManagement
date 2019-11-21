@@ -6,8 +6,10 @@ iOS Class Mid Term Project (Extended)
 
 https://drive.google.com/open?id=1Y1HN8k8w-4SEOCljYb9f-jUhCZ-WrPPB
 
-`**CONFIG**`
+**`CONFIG`**
 
 Device requirement: iPad `only`
+
+iOS version: `at least` 13.1
 
 Building on XCode 11.2.1 (11B500), macOS Catalina 10.15.1

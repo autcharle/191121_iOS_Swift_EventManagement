@@ -12,4 +12,4 @@ Device requirement: iPad `only`
 
 iOS version: `at least` 13.1
 
-Built on XCode 11.2.1 (11B500), macOS Catalina 10.15.1
+Built on Xcode 11.2.1 (11B500), macOS Catalina 10.15.1

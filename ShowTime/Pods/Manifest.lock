@@ -1,0 +1,26 @@
+PODS:
+  - EFColorPicker (5.1.0)
+  - Realm (3.21.0):
+    - Realm/Headers (= 3.21.0)
+  - Realm/Headers (3.21.0)
+  - RealmSwift (3.21.0):
+    - Realm (= 3.21.0)
+
+DEPENDENCIES:
+  - EFColorPicker
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - EFColorPicker
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  EFColorPicker: 6fa37bd9cde0f8dc58762698f1e9809f554dfe6c
+  Realm: 38e9dcb19104b58407167d99f70d4995f7c16023
+  RealmSwift: 3183cc1ad48378fbcd634311b22c0e6c44021152
+
+PODFILE CHECKSUM: 395d2b8c90c264035982ec4c5cc3e25a7c9dec7e
+
+COCOAPODS: 1.8.4

@@ -1,10 +1,10 @@
 # 191121_iOS_Swift_EventManagement
 iOS Class Mid Term Project (Extended)
 
-`reup`
+`Disclaimer`
 **This is the full version.**
 
-https://drive.google.com/open?id=1Y1HN8k8w-4SEOCljYb9f-jUhCZ-WrPPB
+Updated 2022, Feb 21st
 
 **`CONFIG`**
 
